@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5664960406916681382
+      m_GuidHigh: 17572478775675819677
+    m_SerializedTextureGuid:
+      m_GuidLow: 3302323426620709547
+      m_GuidHigh: 12962326230708932267
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dauvat
+    m_Texture: {fileID: 2800000, guid: f92d9aab35a82dd4ab4e228c076fe3b3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5007427489191352127
+      m_GuidHigh: 2365507970984535431
+    m_SerializedTextureGuid:
+      m_GuidLow: 13773234170447936364
+      m_GuidHigh: 2968654826258409112
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: thuy
+    m_Texture: {fileID: 2800000, guid: 19d23b6c5b81bf2498a6e1fbd5c73229, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5588490686319544034
+      m_GuidHigh: 15510517731826217400
+    m_SerializedTextureGuid:
+      m_GuidLow: 17421314662812716376
+      m_GuidHigh: 17423122138779090363
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: londan
+    m_Texture: {fileID: 2800000, guid: 3d418d58f162f1c4bbfd2b08465dcbf1, type: 3}
