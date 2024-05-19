@@ -47,3 +47,23 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: londan
     m_Texture: {fileID: 2800000, guid: 3d418d58f162f1c4bbfd2b08465dcbf1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4675633488148023441
+      m_GuidHigh: 11712566118923687817
+    m_SerializedTextureGuid:
+      m_GuidLow: 4171582008715327949
+      m_GuidHigh: 3568752242798010232
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: quanam
+    m_Texture: {fileID: 2800000, guid: 24e339cd6fbc39e4789f5abb41c18631, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4788861995644698770
+      m_GuidHigh: 13294368456181140628
+    m_SerializedTextureGuid:
+      m_GuidLow: 9129934767385628450
+      m_GuidHigh: 16157766786017802827
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: hungdua
+    m_Texture: {fileID: 2800000, guid: 68824f220b4c7eb44b3a32cc48eb3be0, type: 3}

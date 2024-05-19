@@ -12,17 +12,27 @@ namespace ARTreasureHunt
         {
             if (gameObject.name == "Dauvat Icon")
             {
-                Hint.text = "Dauvat";
+                Hint.text = "Đấu Vật";
                 ShowCueBox.SetActive(true);
             }
             else if (gameObject.name == "Thuy Icon")
             {
-                Hint.text = "Thuy";
+                Hint.text = "Thúy";
                 ShowCueBox.SetActive(true);
             }
             else if (gameObject.name == "Londan Icon")
             {
-                Hint.text = "Londan";
+                Hint.text = "Lợn Đàn";
+                ShowCueBox.SetActive(true);
+            }
+            else if (gameObject.name == "Quanam Icon")
+            {
+                Hint.text = "Quan Âm";
+                ShowCueBox.SetActive(true);
+            }
+            else if (gameObject.name == "Hungdua Icon")
+            {
+                Hint.text = "Hứng Dừa";
                 ShowCueBox.SetActive(true);
             }
             else
